@@ -1,5 +1,3 @@
-Absolutely. Here’s a beginner-friendly explanation you can use for **Agile + Jira notes/interview preparation**.
-
 ## 1. What is an Epic in Agile?
 
 An **Epic** is a **large body of work** that is too big to be completed as a single User Story.
